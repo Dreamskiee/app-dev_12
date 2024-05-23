@@ -4,7 +4,10 @@
 ### Jumanji: *Genre: Adventure, fantasy, Comedy, Action, Family*
 ![Jumanji](https://github.com/Dreamskiee/app-dev/assets/134849449/db7a73c7-ce51-4aa0-b785-03d7222c7353)
 ---
-*Description: "Jumanji: Welcome to the Jungle" is a modern update of the classic 1995 film. In this 2017 reboot, directed by Jake Kasdan, four high school students—Spencer, Fridge, Martha, and Bethany—are given detention and discover an old video game console featuring a game called Jumanji. "Jumanji: The Next Level," the sequel to "Welcome to the Jungle," continues the story with the same group of friends. Directed by Jake Kasdan, the 2019 film finds Spencer, Fridge, Martha, and Bethany being drawn back into the game when Spencer decides to re-enter Jumanji alone. This time, Spencer’s grandfather Eddie (Danny DeVito) and his old friend Milo (Danny Glover) are also sucked into the game.*
+*Description: 
+"Jumanji: Welcome to the Jungle" is a modern update of the classic 1995 film. In this 2017 reboot, directed by Jake Kasdan, four high school students—Spencer, Fridge, Martha, and Bethany—are given detention and discover an old video game console featuring a game called Jumanji.
+
+"Jumanji: The Next Level," the sequel to "Welcome to the Jungle," continues the story with the same group of friends. Directed by Jake Kasdan, the 2019 film finds Spencer, Fridge, Martha, and Bethany being drawn back into the game when Spencer decides to re-enter Jumanji alone. This time, Spencer’s grandfather Eddie (Danny DeVito) and his old friend Milo (Danny Glover) are also sucked into the game.*
 ---
 *Summary: "Jumanji: In "Jumanji: Welcome to the Jungle," four high school students—Spencer, Fridge, Martha, and Bethany—are sent to detention and discover an old video game console with a game called Jumanji. When they start the game, they are magically transported into its jungle world, assuming the roles of their chosen avatars. In "Jumanji: The Next Level," the group reunites when Spencer re-enters the game alone. His friends—Fridge, Martha, and Bethany—decide to go after him, but things go awry when Spencer’s grandfather Eddie (Danny DeVito) and Eddie's friend Milo (Danny Glover) are also sucked into the game. The avatars get mixed up, leading to new dynamics and added humor.*
 ---
