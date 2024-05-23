@@ -1,26 +1,29 @@
 # app-dev
 #  My first repository
 ## My Favorite Series and Movie
-### Sweet Home: *Genre: Supernatural horror, Thriller*
-![Sweet Home](https://github.com/JamesB13/app-dev/assets/134849449/db7a73c7-ce51-4aa0-b785-03d7222c7353)
+### Jumanji: *Genre: Adventure, fantasy, Comedy, Action, Family*
+![Jumanji](https://github.com/Dreamskiee/app-dev/assets/134849449/db7a73c7-ce51-4aa0-b785-03d7222c7353)
 ---
-*Description: "SweetHome" is a gripping South Korean supernatural horror series that delves into the lives of residents in an apartment complex who find themselves trapped in a post-apocalyptic nightmare. As a deadly virus ravages the world, the building becomes a breeding ground for terrifying monsters, pushing the survivors to the brink of sanity as they struggle to protect themselves and uncover the truth behind the sinister transformation.*
+*Description: "Jumanji: Welcome to the Jungle" is a modern update of the classic 1995 film. In this 2017 reboot, directed by Jake Kasdan, four high school students—Spencer, Fridge, Martha, and Bethany—are given detention and discover an old video game console featuring a game called Jumanji. "Jumanji: The Next Level," the sequel to "Welcome to the Jungle," continues the story with the same group of friends. Directed by Jake Kasdan, the 2019 film finds Spencer, Fridge, Martha, and Bethany being drawn back into the game when Spencer decides to re-enter Jumanji alone. This time, Spencer’s grandfather Eddie (Danny DeVito) and his old friend Milo (Danny Glover) are also sucked into the game.*
 ---
-*Summary: In "SweetHome," Hyun-soo, a reclusive high school student grieving over a tragic past, moves into the Green Home apartment building just as a mysterious virus spreads, turning people into monstrous creatures. As chaos ensues and the survivors fight for their lives, Hyun-soo discovers that he may hold the key to their salvation. He must confront his inner demons and learn to trust his newfound allies if they are to have any hope of escaping the nightmarish reality that surrounds them.*
+*Summary: "Jumanji: In "Jumanji: Welcome to the Jungle," four high school students—Spencer, Fridge, Martha, and Bethany—are sent to detention and discover an old video game console with a game called Jumanji. When they start the game, they are magically transported into its jungle world, assuming the roles of their chosen avatars. In "Jumanji: The Next Level," the group reunites when Spencer re-enters the game alone. His friends—Fridge, Martha, and Bethany—decide to go after him, but things go awry when Spencer’s grandfather Eddie (Danny DeVito) and Eddie's friend Milo (Danny Glover) are also sucked into the game. The avatars get mixed up, leading to new dynamics and added humor.*
 ---
 *Characters:*
-1. Hyun-soo: A troubled high school student haunted by a tragic past, Hyun-soo becomes a reluctant hero and discovers his unique abilities as he fights to survive and protect others.
-2. Sang-wook: A former detective with a gruff exterior, Sang-wook's tough exterior hides a kind heart as he takes on a leadership role among the survivors.
-3. Yi-kyung: A mysterious young girl with a troubled past, Yi-kyung possesses a deep connection to the supernatural events unfolding in the apartment complex.
-4. Ji-su: A resourceful and determined high school student, Ji-su becomes an integral part of the group's survival efforts.
-5. Eun-yu: An elderly man suffering from dementia, Eun-yu's unpredictable behavior poses both challenges and unexpected insights for the group.
+1. Dr. Smolder Bravestone (Dwayne Johnson): Spencer’s avatar, a strong and confident archaeologist and explorer. He has superhuman strength, speed, and a smoldering intensity.
+2. Franklin "Mouse" Finbar (Kevin Hart): Fridge’s avatar, a zoologist and weapons carrier. He is small, fast, and knowledgeable about animals but has a weakness for cake.
+3. Ruby Roundhouse (Karen Gillan): Judy’s younger brother, who is curious and initially skeptical about the game's power. He becomes braver as the story progresses.
+4. Professor Sheldon "Shelly" Oberon (Jack Black): Bethany’s avatar, a cartographer, cryptographer, and paleontologist. He is intelligent and knowledgeable but physically less capable.
+5. Seaplane McDonough (Nick Jonas): Alex’s avatar, a skilled pilot and adventurer. He was trapped in the game for 20 years before being rescued by the group.
+6. Ming Fleetfoot (Awkwafina): Spencer's new avatar in "The Next Level," a skilled thief with agility and lock-picking abilities.
+7. Eddie Gilpin (Danny DeVito): Spencer's grandfather who ends up in the game, inhabiting Bravestone’s avatar, bringing a comedic and grumpy perspective.
+8. Milo Walker (Danny Glover): Eddie’s old friend who also gets pulled into the game, inhabiting Mouse’s avatar, adding a thoughtful and slow-paced demeanor.
 ---
-If you want to watch this series just click here [Click Me!!!](https://www.imdb.com/title/tt11612120/)
+If you want to watch this series just click here [Click Me!!!](https://www.imdb.com/title/tt2283362/)(https://www.imdb.com/title/tt7975244/)
 ---
 ---
 ---
 ### John Wick: *Genre: Action, Thriller*
-![John Wick](https://github.com/JamesB13/app-dev/assets/134849449/fc75d486-dd6e-43d4-801e-7862b0185b48)
+![John Wick](https://github.com/Dreamskiee/app-dev/assets/134849449/fc75d486-dd6e-43d4-801e-7862b0185b48)
 
 ---
 *Description: "John Wick" is an exhilarating action thriller that follows the relentless journey of a former hitman who seeks vengeance after a tragic event unravels his life. Packed with intense gun-fu combat, stylish cinematography, and a compelling storyline, the movie showcases the unwavering determination of its titular character as he dismantles a criminal underworld that underestimated his deadly skills.*
